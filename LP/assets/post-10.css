@@ -1,0 +1,29 @@
+.elementor-kit-10{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-38f11569:#4054B2;--e-global-color-649089a9:#23A455;--e-global-color-643511e3:#000;--e-global-color-3e3f3849:#FFF;--e-global-color-1a3c5e05:#FF4619;--e-global-color-648f4084:#0043FF;--e-global-color-7605d8dc:#021189;--e-global-color-254292a5:#EFEFEF;--e-global-color-784db002:#070707;--e-global-color-31ae40d8:#B32B09;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:#070707;font-family:"Roboto", Sans-serif;font-size:1.2em;}.elementor-kit-10 a{color:#FF4619;}.elementor-kit-10 a:hover{color:#F87454;}.elementor-kit-10 h1{color:#070707;font-family:"Work Sans", Sans-serif;font-size:3.6em;font-weight:700;}.elementor-kit-10 h2{color:#070707;font-family:"Work Sans", Sans-serif;font-size:2.1em;font-weight:700;}.elementor-kit-10 h3{color:#070707;font-family:"Work Sans", Sans-serif;}.elementor-kit-10 h4{color:#070707;font-family:"Work Sans", Sans-serif;}.elementor-kit-10 h5{color:#070707;font-family:"Work Sans", Sans-serif;}.elementor-kit-10 h6{color:#070707;font-family:"Work Sans", Sans-serif;}.elementor-kit-10 button,.elementor-kit-10 input[type="button"],.elementor-kit-10 input[type="submit"],.elementor-kit-10 .elementor-button{font-family:"Work Sans", Sans-serif;font-size:20px;font-weight:600;color:#FFFFFF;background-color:#FF4619;border-radius:100px 100px 100px 100px;padding:13px 35px 15px 35px;}.elementor-kit-10 button:hover,.elementor-kit-10 button:focus,.elementor-kit-10 input[type="button"]:hover,.elementor-kit-10 input[type="button"]:focus,.elementor-kit-10 input[type="submit"]:hover,.elementor-kit-10 input[type="submit"]:focus,.elementor-kit-10 .elementor-button:hover,.elementor-kit-10 .elementor-button:focus{color:#FFFFFF;}.elementor-kit-10 label{font-family:"Work Sans", Sans-serif;font-size:0.9em;font-weight:500;line-height:1.4em;}.elementor-kit-10 input:not([type="button"]):not([type="submit"]),.elementor-kit-10 textarea,.elementor-kit-10 .elementor-field-textual{border-style:solid;border-width:1px 1px 1px 1px;border-color:#CBCBCB;}.elementor-kit-10 input:focus:not([type="button"]):not([type="submit"]),.elementor-kit-10 textarea:focus,.elementor-kit-10 .elementor-field-textual:focus{border-style:solid;border-width:1px 1px 1px 1px;border-color:#0043FF;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1270px;}.elementor-widget:not(:last-child){margin-bottom:10px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-10 h1{font-size:3.1em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-kit-10 h1{font-size:1.9em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */.elementor-button-icon svg {
+    width: 0.7em;
+}
+main.site-main {
+    overflow: hidden;
+}
+
+.elementor-element.elementor-widget-flip-box {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+
+/** contact form **/
+label {
+    padding-bottom: 7px;
+}
+
+form.formIntegration.formIntegration2 div.block {
+    margin-bottom: 25px;
+}
+
+input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea{
+        border: 1px solid #CBCBCB;
+}
+
+[type=button], [type=submit], button {
+    border: none;
+}/* End custom CSS */
